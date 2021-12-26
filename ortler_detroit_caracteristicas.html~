@@ -1,0 +1,84 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+		<title>A-Bike</title>
+
+		<style>  
+		#imagesize  
+		{  
+		width:200px;  
+		height:200px;  
+		} 
+
+		h1 {text-align: center;}
+		h2 {text-align: center;}
+
+		img 
+		{
+		display: block;
+		margin-left: auto;
+  		margin-right: auto;
+		}  
+		</style>  
+		
+	</head>
+
+
+	<body>
+		<!-- -->
+	
+		
+				
+		<h1>Caracter&iacute;sticas Ortler Detroit</h1>
+	
+		
+    		
+		</br>
+		</br>
+		
+		
+		<table style="width:100%">
+			<tr>
+				<td>Uso</td>
+
+
+    				<td>Direcci&oacute;n</td>	
+
+
+  			</tr>
+
+
+			<tr>
+				<td>Ciclismo Diario</td>
+				<td>1 1/8 Catridge</td>	
+
+
+  			</tr>
+		</table>
+
+		<table style="width:100%">
+			<tr>
+				<td>Peso (aprox.)</td>
+
+
+    				<td>Tija</td>	
+
+
+  			</tr>
+
+
+			<tr>
+				<td>16.28 kg</td>
+				<td>Dise&ntilde;o:Cirio </br> Di&aacute;metro: 28.6 mm </br>Tipo: HL SP-200, longitud: 300 mm / Plateado</br>Material: Acero ligero Hi-Ten </td>	
+
+
+  			</tr>
+		</table>
+		
+
+	</body>
+</html>

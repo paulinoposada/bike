@@ -33,56 +33,31 @@
 	
 		
 				
-		<h1>A-Bike</h1>
+		<h1>Alquiler de bicicletas</h1>
 	
-		<h2>Taller y alquiler de bicicletas</h2>
+		
     		
 		</br>
 		</br>
 		
+		
 		<table style="width:100%">
-  			<tr>
-    				<td>
-			 	<a href="https://www.google.com/maps/place/A-Bike/@39.5764613,2.6324554,17z/data=!3m1!4b1!4m5!3m4!1s0x129793f1828b8055:0xfaa196d383080018!8m2!3d39.5764461!4d2.6346929"> Carrer Joan Cresp&iacute;, 49</a></li>
-				</br>
-				07014 Palma de Mallorca
-				</br>
-				Tel&eacute;fono: 633 485 188
-				</br>
-				e-mail: a.bike.palma@gmail.com
-				</br>
-
-				
-				</td>
-
-				<td>
-				
-				Idioma	
-
-					<ul>
+			<tr>
+				<th>
 			
-					<li><a href="./index_cat.html">Catal&agrave;</a>
-					</li>
-					<li><a href="./index_de.html">Deutsch</a>
-					</li>
-					<li><a href="./websites/fp_basica/2021/index_fpb.html">English</a>
-					</li>
+    					Ortler Detroit
+				</th>
+
+
+    				<th>
+					Serious Rockville
 			
-					</ul>
-				</td>
+		
+				</th>	
 
 
   			</tr>
-		</table>
 
-		</br>
-		</br>
-		</br>
-		<img src="./images/bici_alquiler.png"  id="imagesize" alt="bici alquiler" />
-
-
-
-		<table style="width:100%">
 
 			<tr>
 				<td>
@@ -100,6 +75,33 @@
 
   			</tr>
 		</table>
+
+		<h2>Precios</h2>
+
+		<table style="width:100%">
+			<tr>
+				<td><b>1er d&iacute;a</b></td>
+    				<td><b>2do d&iacute;a</b></td>	
+				<td><b>3er d&iacute;a</b></td>
+    				<td><b>4to d&iacute;a</b></td>	
+				<td><b>5to d&iacute;a</b></td>
+    				<td><b>6to d&iacute;a</b></td>	
+    				<td><b>Semana</b></td>	
+  			</tr>
+
+
+			<tr>
+				<td>10 euros</td>
+				<td>9 euros</td>	
+				<td>8 euros</td>
+				<td>7 euros</td>	
+				<td>6 euros</td>
+				<td>5 euros</td>	
+				<td>45 euros</td>	
+
+  			</tr>
+		</table>
+
 
 	</body>
 </html>
