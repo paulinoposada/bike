@@ -5,30 +5,17 @@
 
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
-		<title>A-Bike</title>
+		<title>A-Bike deutsch</title>
 
 		<style>  
-		#imagesize_1  
+		#imagesize  
 		{  
-		width:400px;  
-		height:400px;  
-		}
-
-		#imagesize_2  
-		{  
-		width:400px;  
-		height:250px;  
+		width:200px;  
+		height:200px;  
 		} 
 
 		h1 {text-align: center;}
-		h2 {text-align: center;}
-
-		img 
-		{
-		display: block;
-		margin-left: auto;
-  		margin-right: auto;
-		}  
+		h2 {text-align: center;}  
 		</style>  
 		
 	</head>
@@ -41,7 +28,7 @@
 				
 		<h1>A-Bike</h1>
 	
-		<h2>Taller y alquiler de bicicletas</h2>
+		<h2>Werkstatt und Fahrradvermietung</h2>
     		
 		</br>
 		</br>
@@ -63,47 +50,32 @@
 
 				<td>
 				
-				Idioma	
+				Sprache
 
 					<ul>
 			
-					<li><a href="./html_files/index_cat.html">Catal&agrave;</a>
+					<li><a href="./index_cat.html">Catal&agrave;</a>
 					</li>
-					<li><a href="./html_files/index_de.html">Deutsch</a>
+					<li><a href="./index_en.html">English</a>
+					<li><a href="../index.html">Espa&ntilde;ol</a>
 					</li>
-					<li><a href="./html_files/index_en.html">English</a>
+
 					</li>
 			
 					</ul>
 				</td>
 
-
   			</tr>
-		</table>
 
-		</br>
-		</br>
-		</br>
-
-		<table style="width:100%">
-  			<tr>
-    				<td>
-				<a href="./html_files/alquiler.html"><img src="./images/alquiler_es.png"  id="imagesize_2" alt="bici alquiler" /></a>
-				</td>
-
-				<td>
-				<a href="./html_files/taller_es.html"><img src="./images/taller_es.png"  id="imagesize_1" alt="taller" /></a>
-				
-				</td>
-
-
-  			</tr>
 		</table>
 
 
+		</br>
+		</br>
+		</br>
+		<a href="alquiler_de.html"><img src="../images/bici_alquiler.png"  id="imagesize" alt="Fahrradverleih" /></a>
 
 
 
-	
 	</body>
 </html>

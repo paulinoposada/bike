@@ -1,0 +1,115 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+		<title>A-Bike</title>
+
+		<style>  
+		#imagesize  
+		{  
+		width:400px;  
+		height:400px;  
+		} 
+
+		h1 {text-align: center;}
+		h2 {text-align: center;}
+
+		img 
+		{
+		display: block;
+		margin-left: auto;
+  		margin-right: auto;
+		}  
+		</style>  
+		
+	</head>
+
+
+	<body>
+		<!-- -->
+	
+		
+				
+		<h1>Bike Rental</h1>
+	
+		
+    		
+		</br>
+		</br>
+		
+		
+		<table style="width:100%">
+			<tr>
+				<th>
+			
+    					<a href="../documents/ortler_detroit_caracteristicas.pdf">Ortler Detroit</a>
+				</th>
+
+
+    				<th>
+<a href="../documents/serious_rockville_caracteristicas.pdf
+">Serious Rockville</a>
+					
+			
+		
+				</th>	
+
+
+  			</tr>
+
+
+			<tr>
+				<td>
+			
+    					<img src="../images/ortler-detroit-eq-alloy-wave-6-speed-black-7.jpg"  id="imagesize" alt="ortler detroit" />
+				</td>
+
+
+    				<td>
+					<img src="../images/serious-rockville-275-white-red-2.jpg"  id="imagesize" alt="serious rockville" />
+			
+		
+				</td>	
+
+
+  			</tr>
+		</table>
+
+		<h2>Prices</h2>
+
+		<table style="width:100%">
+			<tr>
+				<td><b>1 Day</b></td>
+    				<td><b>2 Days</b></td>	
+				<td><b>3 Days</b></td>
+    				<td><b>4 Days</b></td>	
+				<td><b>5 Days</b></td>
+    				<td><b>6 Days</b></td>	
+    				<td><b>7 Days</b></td>
+    				<td><b>Extra Day</b></td>		
+  			</tr>
+
+
+			<tr>
+				<td>10 &euro;</td>
+				<td>9 &euro;</td>	
+				<td>8 &euro;</td>
+				<td>7 &euro;</td>	
+				<td>6 &euro;</td>
+				<td>5 &euro;</td>	
+				<td>4 &euro;</td>
+				<td>3 &euro;</td>		
+
+  			</tr>
+		</table>
+
+		</br>
+		</br>		
+		<a href="./index_de.html">back</a>
+
+
+	</body>
+</html>

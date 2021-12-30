@@ -8,10 +8,16 @@
 		<title>A-Bike</title>
 
 		<style>  
-		#imagesize  
+		#imagesize_1  
 		{  
-		width:200px;  
-		height:200px;  
+		width:400px;  
+		height:400px;  
+		}
+
+		#imagesize_2  
+		{  
+		width:400px;  
+		height:250px;  
 		} 
 
 		h1 {text-align: center;}
@@ -61,11 +67,11 @@
 
 					<ul>
 			
-					<li><a href="./index_cat.html">Catal&agrave;</a>
+					<li><a href="./html_files/index_cat.html">Catal&agrave;</a>
 					</li>
-					<li><a href="./index_de.html">Deutsch</a>
+					<li><a href="./html_files/index_de.html">Deutsch</a>
 					</li>
-					<li><a href="./websites/fp_basica/2021/index_fpb.html">English</a>
+					<li><a href="./html_files/index_en.html">English</a>
 					</li>
 			
 					</ul>
@@ -78,28 +84,26 @@
 		</br>
 		</br>
 		</br>
-		<img src="./images/bici_alquiler.png"  id="imagesize" alt="bici alquiler" />
-
-
 
 		<table style="width:100%">
-
-			<tr>
-				<td>
-			
-    					<img src="./images/ortler-detroit-eq-alloy-wave-6-speed-black-7.jpg"  id="imagesize" alt="ortler detroit" />
+  			<tr>
+    				<td>
+				<a href="./html_files/alquiler.html"><img src="./images/alquiler_es.png"  id="imagesize_2" alt="bici alquiler" /></a>
 				</td>
 
-
-    				<td>
-					<img src="./images/serious-rockville-275-white-red-2.jpg"  id="imagesize" alt="seriuos rockville" />
-			
-		
-				</td>	
+				<td>
+				<a href="./html_files/taller_es.html"><img src="./images/taller_es.png"  id="imagesize_1" alt="taller" /></a>
+				
+				</td>
 
 
   			</tr>
 		</table>
 
+
+
+
+
+	
 	</body>
 </html>
