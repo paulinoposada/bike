@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+		<title>A-Bike</title>
+
+		<style>  
+
+		h1 {text-align: center;}
+		h2 {text-align: center;}
+		</style>  
+		
+	</head>
+
+
+	<body>
+		<!-- -->
+	
+		
+				
+		<h1>Mec&aacute;nica bicicletas</h1>
+	
+		
+    		
+		</br>
+		</br>
+		
+		
+		
+		<h2>Manuales de mec&aacute;nica</h2>
+
+		<ul>
+			<li><a href="../documents/epdf.pub_bicycle-repair-manual.pdf">Bike Repair Manual - Chris Sidwells</a></li>
+			<li><a href="../documents/epdf.pub_big-blue-book-of-bicycle-repair.pdf">Big Blue Book Of Bicycle Repair - C. Calvin Jones</a></li>
+			<li><a href="../documents/epdf.pub_manual-for-bicycle-framebuilders.pdf">The Paterek Manual</a></li>
+			<li><a href="../documents/epdf.pub_sutherlands-handbook-for-bicycle-mechanics.pdf">Sutherland's Handbook For Bicyle Mechanics 6th Edition</a></li>
+			
+    		</ul>
+		
+
+		</br>
+		</br>		
+		<a href="../index.html">volver</a>
+
+
+	</body>
+</html>
