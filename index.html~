@@ -20,22 +20,23 @@
 		height:250px;  
 		} 
 
+		#imagesize_3
+		{  
+		width:200px;  
+		height:125px;  
+		} 
+
+
 		h1 {text-align: center;}
 		h2 {text-align: center;}
 
-		img 
-		{
-		display: block;
-		margin-left: auto;
-  		margin-right: auto;
-		}  
-		</style>  
+				</style>  
 		
 	</head>
 
 
 	<body>
-		<!-- -->
+		<!-- comment -->
 	
 		
 				
@@ -58,8 +59,13 @@
 				e-mail: a.bike.palma@gmail.com
 				</br>
 
+				</td>
+
+				<td>
+				<img src="./images/pagina_construccion.jpeg"  id="imagesize_3" alt="pagina en construccion" />
 				
 				</td>
+
 
 				<td>
 				
@@ -88,7 +94,7 @@
 		<table style="width:100%">
   			<tr>
     				<td>
-				<a href="./html_files/alquiler.html"><img src="./images/alquiler_es.png"  id="imagesize_2" alt="bici alquiler" /></a>
+				<a href="./html_files/alquiler_es.html"><img src="./images/alquiler_es.png"  id="imagesize_2" alt="bici alquiler" /></a>
 				</td>
 
 				<td>
@@ -98,9 +104,10 @@
 
 
 				<td>
-				<img src="./images/pagina_construccion.jpeg"  id="imagesize_1" alt="pagina en construccion" />
+				<a href="./html_files/accesorios_es.html"><img src="./images/accesorios.jpeg"  id="imagesize_2" alt="taller" /></a>
 				
 				</td>
+
 
   			</tr>
 		</table>

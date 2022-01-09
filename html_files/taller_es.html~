@@ -12,7 +12,12 @@
 		h1 {text-align: center;}
 		h2 {text-align: center;}
 
-		
+		#imagesize  
+		{  
+		width:100px;  
+		height:100px;  
+		}
+
 		</style>  
 		
 	</head>
@@ -36,7 +41,7 @@
 
 		<ul>
  			<li>Reparaci&oacute;n pinchazo 5 &euro;.</li>
-			<li>Cambio de c&aacute;mara: 15 &euro;, bicicletas Brompton o con freno contrapedal 20€ por rueda.</li>
+			<li>Cambio de c&aacute;mara: 15 &euro;, bicicletas Brompton o con freno contrapedal 20&euro; por rueda.</li>
 			<li>Instalaci&oacute;n de pedales o accesorios: 2&euro; cada uno</li>
 			<li>Instalaci&oacute;n de potencia: 10 &euro;</li>
 			<li>Ajuste de frenos (cable): 12 &euro;</li>
@@ -63,6 +68,13 @@
 		</br>
 		</br>	
 		
+
+		<a href="https://youtu.be/xtCTzegQIn4">Red Cycling Products Secure Pocket Lock Pull-Out 3-Digits</a>	
+		<img src="../images/red-cycling-products-secure-pocket-lock-pull-out-3-digits-1.jpg"  id="imagesize" alt="pocket lock" />
+
+		</br>
+		</br>	
+
 <a href="../index.html">volver</a>
 
 
