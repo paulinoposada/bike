@@ -1,0 +1,86 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+		<title>pocket-lock</title>
+
+		<style>  
+		#imagesize  
+		{  
+		width:300px;  
+		height:300px;  
+		} 
+
+		h1 {text-align: center;}
+
+
+img 
+		{
+		display: block;
+		margin-left: auto;
+  		margin-right: auto;
+		}  
+
+		</style>  
+		
+	</head>
+
+
+	<body>
+		<!-- -->
+	
+		
+				
+		<h1>Candado de bolsillo</h1>
+	
+
+    		
+		</br>
+		</br>
+		
+		<table style="width:100%">
+
+  			<tr>
+				<td></td>
+    				<td>
+			 	<h2>8,00 &euro;</h2>
+				</td>
+				<td></td>
+
+  			</tr>
+
+  			<tr>
+    				<td>
+			 	<img src="../../images/accessories/red-cycling-products-secure-pocket-lock-pull-out-3-digits-1.jpg"  					id="imagesize" alt="pocket lock" />
+				</td>
+
+				<td>
+				<p>
+				Candado para sujetar sill&iacute;n, rueda o casco.
+				</br>
+				</br>
+				Si est&aacute;s planeando una salida con una parada corta para beber algo, saludar a las amigas o 					comprar el pan, es mejor no tener que caminar de vuelta a casa. Con el candado de 					bolsillo estar&aacute;s seguro. La longitud del cable tambi&eacute;n permite que puedas asegurar el casco y 					el sill&iacute;n.
+				</br>
+				</br>
+				Tama&ntilde;o: 54 x 21 x 72,5 mm
+				</p>
+				</td>
+
+  			</tr>
+
+		</table>
+
+		</br>
+		</br>		
+
+		<a href="https://youtu.be/xtCTzegQIn4">Instrucciones</a>
+
+		</br>
+		</br>		
+		<a href="../accesorios_es.html">volver</a>
+
+	</body>
+</html>

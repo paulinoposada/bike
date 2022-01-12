@@ -33,27 +33,37 @@
 		
     		
 			<table style="width:100%">
+  		
   			<tr>
     				<td>
+				<img src="../images/accessories/red-cycling-products-secure-pocket-lock-pull-out-3-digits-1.jpg"  					id="imagesize" alt="pocket lock" />
+				<a href="./accessories/pocket_lock.html">Candado de bolsillo</a>
 				</td>	
-
-				<td>Precio
-				</td>
-
-
   			</tr>
 
-  			<tr>
+			<tr>
     				<td>
-				<img src="../images/red-cycling-products-secure-pocket-lock-pull-out-3-digits-1.jpg"  id="imagesize" 					alt="pocket lock" />
-				<a href="./products.html">Candado de bolsillo</a>
+				<img src="../images/accessories/red-cycling-products-hv-hp-aluminium-minipumpe-silber-1.jpg"  				id="imagesize" alt="minipump" />
+				<a href="./accessories/minipump.html">Bomba</a>
 				</td>	
-
-				<td>8,00 &euro;
-				</td>
-
-
   			</tr>
+
+			<tr>
+    				<td>
+				<img src="../images/accessories/red-cycling-products-power-led-usb-beleuchtungsset-schwarz-1.jpg"  				id="imagesize" alt="minipump" />
+				<a href="./accessories/usb_light_set.html">Juego de luces recargable por USB</a>
+				</td>	
+  			</tr>
+
+			<tr>
+    				<td>
+				<img src="../images/accessories/bbb-codelock-bbl-46-fahrradschloss-schwarz-1.jpg"  				id="imagesize" alt="code lock" />
+				<a href="./accessories/code_lock.html">Candado de combinaci&oacute;n</a>
+				</td>	
+  			</tr>
+
+
+
 		</table>
 
 		

@@ -77,17 +77,17 @@
   			</tr>
 		</table>
 
-		<h2>Precios</h2>
+		<h2>Precios por d&iacute;a</h2>
 
 		<table style="width:100%">
 			<tr>
-				<td><b>1 d&iacute;a</b></td>
-    				<td><b>2 d&iacute;as</b></td>	
-				<td><b>3 d&iacute;as</b></td>
-    				<td><b>4 d&iacute;as</b></td>	
-				<td><b>5 d&iacute;as</b></td>
-    				<td><b>6 d&iacute;as</b></td>	
-    				<td><b>7 d&iacute;as</b></td>
+				<td><b>1 er d&iacute;a</b></td>
+    				<td><b>2 do d&iacute;a</b></td>	
+				<td><b>3 er d&iacute;a</b></td>
+    				<td><b>4 to d&iacute;a</b></td>	
+				<td><b>5 to d&iacute;a</b></td>
+    				<td><b>6 to d&iacute;a</b></td>	
+    				<td><b>7 mo d&iacute;a</b></td>
     				<td><b>d&iacute;a extra</b></td>		
   			</tr>
 

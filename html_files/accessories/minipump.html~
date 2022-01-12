@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+		<title>minipump</title>
+
+		<style>  
+		#imagesize  
+		{  
+		width:300px;  
+		height:300px;  
+		} 
+
+		h1 {text-align: center;}
+
+
+img 
+		{
+		display: block;
+		margin-left: auto;
+  		margin-right: auto;
+		}  
+
+		</style>  
+		
+	</head>
+
+
+	<body>
+		<!-- -->
+	
+		
+				
+		<h1>Mini bomba</h1>
+	
+
+    		
+		</br>
+		</br>
+		
+		<table style="width:100%">
+
+  			<tr>
+				<td></td>
+    				<td>
+			 	<h2>12,00 &euro;</h2>
+				</td>
+				<td></td>
+
+  			</tr>
+
+  			<tr>
+    				<td>
+			 	<img src="../../images/accessories/red-cycling-products-hv-hp-aluminium-minipumpe-silber-1.jpg"  id="imagesize" 				alt="minipump" />
+				</td>
+
+				<td>
+				<p>
+				Mini bomba para llevar.
+				</br>
+				</br>
+				Esta bomba de aluminio es una bomba ligera para llevar durante los desplazamientos. Su longitud de 28 cm 					permite guardarla f&aacute;cilmente. Tambi&eacute;n se puede fijar a los tornillos del portabotellas con el 					soporte universal suministrado. 
+				</br>
+				</br>
+<ul>				
+<li>Conmutable entre Alto Volumen (HV) y Alta Presi&oacute;n (HP)</li>
+<li>Aluminio de alta calidad</li>
+<li>Presi&oacute;n m&aacute;x.: 5,5 bar/80psi (HV) - 8,3 bar/120psi (HP)</li>
+<li>Cabezal de v&aacute;lvula con tapa protectora de suciedad</li>
+<li>C&oacute;modo mango en T con funci&oacute;n de bloqueo</li>
+</ul>				
+				</p>
+				</td>
+
+  			</tr>
+
+		</table>
+
+		</br>
+		</br>		
+
+
+		</br>
+		</br>		
+		<a href="../accesorios_es.html">volver</a>
+
+	</body>
+</html>
