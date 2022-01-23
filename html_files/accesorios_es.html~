@@ -33,6 +33,13 @@
 		
     		
 			<table style="width:100%">
+
+			<tr>
+    				<td>
+				<img src="../images/accessories/red-cycling-products-hv-hp-aluminium-minipumpe-silber-1.jpg"  				id="imagesize" alt="minipump" />
+				<a href="./accessories/minipump.html">Bomba</a>
+				</td>	
+  			</tr>
   		
   			<tr>
     				<td>
@@ -43,8 +50,15 @@
 
 			<tr>
     				<td>
-				<img src="../images/accessories/red-cycling-products-hv-hp-aluminium-minipumpe-silber-1.jpg"  				id="imagesize" alt="minipump" />
-				<a href="./accessories/minipump.html">Bomba</a>
+				<img src="../images/accessories/bbb-codelock-bbl-46-fahrradschloss-schwarz-1.jpg"  				id="imagesize" alt="code lock" />
+				<a href="./accessories/code_lock.html">Candado de combinaci&oacute;n</a>
+				</td>	
+  			</tr>
+
+			<tr>
+    				<td>
+				<img src="../images/accessories/disolucion-caucho-8-ml.jpg" id="imagesize" alt="code lock" />
+				<a href="./accessories/vulcanizer.html">Disoluci&oacute;n vulcanizante</a>
 				</td>	
   			</tr>
 
@@ -57,8 +71,8 @@
 
 			<tr>
     				<td>
-				<img src="../images/accessories/bbb-codelock-bbl-46-fahrradschloss-schwarz-1.jpg"  				id="imagesize" alt="code lock" />
-				<a href="./accessories/code_lock.html">Candado de combinaci&oacute;n</a>
+				<img src="../images/accessories/parche_15.jpg" id="imagesize" alt="patch" />
+				<a href="./accessories/patch.html">Parche</a>
 				</td>	
   			</tr>
 
