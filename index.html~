@@ -50,7 +50,7 @@
 		<table style="width:100%">
   			<tr>
     				<td>
-			 	<a href="https://goo.gl/maps/7KP3uCmj4N63Prf98"> Carrer Joan Cresp&iacute;, 49</a></li>
+			 	<a href="https://www.openstreetmap.org/search?query=carrer%20joan%20cresp%C3%AD%2C%2049%2C%20palma%20de%20mallorca%2C%20spain#map=19/39.57634/2.63456"> Carrer Joan Cresp&iacute;, 49</a></li>
 				</br>
 				07014 Palma de Mallorca
 				</br>
@@ -62,7 +62,7 @@
 				</td>
 
 				<td>
-				<img src="./images/pagina_construccion.jpeg"  id="imagesize_3" alt="pagina en construccion" />
+				<img src="./images/pagina_construccion_en.jpeg"  id="imagesize_3" alt="pagina en construccion" />
 				
 				</td>
 

@@ -45,13 +45,11 @@
 			<tr>
 				<th>
 			
-    					<a href="../documents/ortler_detroit_caracteristicas.pdf">Ortler Detroit</a>
+    				
 				</th>
 
 
     				<th>
-<a href="../documents/serious_rockville_caracteristicas.pdf
-">Serious Rockville</a>
 					
 			
 		
@@ -64,44 +62,16 @@
 			<tr>
 				<td>
 			
-    					<img src="../images/ortler-detroit-eq-alloy-wave-6-speed-black-7.jpg"  id="imagesize" alt="ortler detroit" />
+    					<a href="alquiler_ortler_serious_de.html"><img src="../images/ortler_serious_2.png"  id="imagesize" alt="ortler_serious" /></a>
 				</td>
 
 
     				<td>
-					<img src="../images/serious-rockville-275-white-red-2.jpg"  id="imagesize" alt="serious rockville" />
+					<a href="alquiler_hase_de.html"><img src="../images/hase_pino_2.png"  id="imagesize" alt="hase_pino" /></a>
 			
 		
 				</td>	
 
-
-  			</tr>
-		</table>
-
-		<h2>Preise</h2>
-
-		<table style="width:100%">
-			<tr>
-				<td><b>1 Tag</b></td>
-    				<td><b>2 Tage</b></td>	
-				<td><b>3 Tage</b></td>
-    				<td><b>4 Tage</b></td>	
-				<td><b>5 Tage</b></td>
-    				<td><b>6 Tage</b></td>	
-    				<td><b>7 Tage</b></td>
-    				<td><b>Tag extra</b></td>		
-  			</tr>
-
-
-			<tr>
-				<td>10 Euro</td>
-				<td>9 Euro</td>	
-				<td>8 Euro</td>
-				<td>7 Euro</td>	
-				<td>6 Euro</td>
-				<td>5 Euro</td>	
-				<td>4 Euro</td>
-				<td>3 Euro</td>		
 
   			</tr>
 		</table>

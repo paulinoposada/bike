@@ -8,15 +8,29 @@
 		<title>A-Bike deutsch</title>
 
 		<style>  
-		#imagesize  
+		#imagesize_1  
 		{  
-		width:200px;  
-		height:200px;  
+		width:400px;  
+		height:400px;  
+		}
+
+		#imagesize_2  
+		{  
+		width:400px;  
+		height:250px;  
 		} 
 
+		#imagesize_3
+		{  
+		width:200px;  
+		height:125px;  
+		} 
+
+
 		h1 {text-align: center;}
-		h2 {text-align: center;}  
-		</style>  
+		h2 {text-align: center;}
+
+				</style>    
 		
 	</head>
 
@@ -32,11 +46,12 @@
     		
 		</br>
 		</br>
-		
-		<table style="width:100%">
+			<table style="width:100%">
   			<tr>
-    				<td>
-			 	<a href="https://www.google.com/maps/place/A-Bike/@39.5764613,2.6324554,17z/data=!3m1!4b1!4m5!3m4!1s0x129793f1828b8055:0xfaa196d383080018!8m2!3d39.5764461!4d2.6346929"> Carrer Joan Cresp&iacute;, 49</a></li>
+	
+	
+				<td>
+			 	<a href="https://www.openstreetmap.org/search?query=carrer%20joan%20cresp%C3%AD%2C%2049%2C%20palma%20de%20mallorca%2C%20spain#map=19/39.57634/2.63456"> Carrer Joan Cresp&iacute;, 49</a></li>
 				</br>
 				07014 Palma de Mallorca
 				</br>
@@ -45,21 +60,26 @@
 				e-mail: a.bike.palma@gmail.com
 				</br>
 
-				
+				</td>
 				</td>
 
 				<td>
+				<img src="../images/pagina_construccion_en.jpeg"  id="imagesize_2" alt="web page under construction" />
 				
-				Sprache
+				</td>
+
+
+				<td>
+				
+				Language
 
 					<ul>
 			
 					<li><a href="./index_cat.html">Catal&agrave;</a>
 					</li>
-					<li><a href="./index_en.html">English</a>
-					<li><a href="../index.html">Espa&ntilde;ol</a>
+					<li><a href="./index_de.html">Deutsch</a>
 					</li>
-
+					<li><a href="../index.html">Espa&ntilde;ol</a>
 					</li>
 			
 					</ul>
@@ -69,11 +89,30 @@
 
 		</table>
 
+		</br>
+		</br>
+		</br>
 
-		</br>
-		</br>
-		</br>
-		<a href="alquiler_de.html"><img src="../images/bici_alquiler.png"  id="imagesize" alt="Fahrradverleih" /></a>
+		<table style="width:100%">
+  			<tr>
+    				<td>
+				<a href="./alquiler_de.html"><img src="../images/alquiler_de.png"  id="imagesize_2" alt="Fahrrad Verleih" /></a>
+				</td>
+
+				<td>
+				<a href="./taller_de.html"><img src="../images/taller_de.png"  id="imagesize_1" alt="Werkstatt" /></a>
+				
+				</td>
+
+
+				<td>
+				<a href="./accesorios_de.html"><img src="../images/accesorios_de.png"  id="imagesize_2" alt="Zubeh&ouml;r" /></a>
+				
+				</td>
+
+
+  			</tr>
+		</table>
 
 
 
