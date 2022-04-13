@@ -5,13 +5,13 @@
 
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
-		<title>A-Bike</title>
+		<title>alquiler</title>
 
 		<style>  
 		#imagesize  
 		{  
 		width:400px;  
-		height:400px;  
+		height:200px;  
 		} 
 
 		h1 {text-align: center;}
@@ -45,12 +45,11 @@
 			<tr>
 				<th>
 			
-    					<a href="../documents/ortler_detroit_caracteristicas.pdf">Ortler Detroit</a>
+    				
 				</th>
 
 
     				<th>
-<a href="../documents/serious_rockville_caracteristicas.pdf">Serious Rockville</a>
 					
 			
 		
@@ -63,12 +62,12 @@
 			<tr>
 				<td>
 			
-    					<img src="../images/ortler-detroit-eq-alloy-wave-6-speed-black-7.jpg"  id="imagesize" alt="ortler detroit" />
+    					<a href="alquiler_ortler_serious_cat.html"><img src="../images/ortler_serious_2.png"  id="imagesize" alt="ortler_serious" /></a>
 				</td>
 
 
     				<td>
-					<img src="../images/serious-rockville-275-white-red-2.jpg"  id="imagesize" alt="serious rockville" />
+					<a href="alquiler_hase_cat.html"><img src="../images/hase_pino_2.png"  id="imagesize" alt="hase_pino" /></a>
 			
 		
 				</td>	
@@ -77,37 +76,11 @@
   			</tr>
 		</table>
 
-		<h2>Preus</h2>
-
-		<table style="width:100%">
-			<tr>
-				<td><b>1 dia</b></td>
-    				<td><b>2 dies</b></td>	
-				<td><b>3 dies</b></td>
-    				<td><b>4 dies</b></td>	
-				<td><b>5 dies</b></td>
-    				<td><b>6 dies</b></td>	
-    				<td><b>7 dies</b></td>
-    				<td><b>dia extra</b></td>		
-  			</tr>
-
-
-			<tr>
-				<td>10 euros</td>
-				<td>9 euros</td>	
-				<td>8 euros</td>
-				<td>7 euros</td>	
-				<td>6 euros</td>
-				<td>5 euros</td>	
-				<td>4 euros</td>
-				<td>3 euros</td>		
-
-  			</tr>
-		</table>
 
 		</br>
 		</br>		
-		<a href="./index_cat.html">enrere</a>
+		<a href="../index.html">tornar</a>
+
 
 	</body>
 </html>
