@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+		<title>Taller</title>
+
+		<style>  
+		
+		h1 {text-align: center;}
+		h2 {text-align: center;}
+
+		#imagesize  
+		{  
+		width:100px;  
+		height:100px;  
+		}
+
+		</style>  
+		
+	</head>
+
+
+	<body>
+		<!-- -->
+	
+		
+				
+		<h1>Taller de bicicletas</h1>
+	
+		
+    		
+		</br>
+		</br>
+		
+		
+		
+		<h2>Serveis</h2>
+
+		<ul>
+ 			<li>Reparaci&oacute; roda punxada 7 &euro; parxe, 10 euros sustituci&oacute; c&agrave;mara.</li>
+			<li>Instal·laci&oacute; de pedals o accessoris: 2&euro; cadascú</li>
+			<li>Instalaci&oacute; de pot&egrave;ncia: 10 &euro;</li>
+			<li>Ajustament frens (cable): 12 &euro;</li>
+			<li>Instalaci&oacute; sabates de frens (davat i derrere) : m&agrave; de obra 10 &euro; + preu de les sabates de fre</li>
+			<li>Instalaci&oacute; pastilles en fre de disc (1 fren): m&agrave; de obra 12 &euro; + preu de pastilles de fre</li>
+			<li>Sangrat de frens (preu per fre, oli mineral): 18 &euro;</li>
+			<li>Canvi de cable/funda de fre: 15 &euro; per cable</li>
+			<li>Instalaci&oacute; cadena: m&agrave; de obra 6 &euro; + preu cadena</li>
+			<li>Ajustament canvis: 15 &euro;</li>
+			<li>Centrat de roda: des de 10 &euro; depenenet del tipus de roda</li>
+			<li>Revisi&oacute; r&agrave;pida (no inclou peces) 20 &euro;: frens, canvis i lubricat.</li>
+
+		</ul>
+
+		</br>
+		</br>	
+
+<a href="../index.html">tornar</a>
+
+
+	</body>
+</html>
