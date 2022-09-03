@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+		<title>bicis segunda mano</title>
+
+<style>  
+		#imagesize_1  
+		{  
+		width:400px;  
+		height:400px;  
+		}
+
+		#imagesize_2  
+		{  
+		width:400px;  
+		height:250px;  
+		} 
+
+		#imagesize_3
+		{  
+		width:360px;  
+		height:250px;  
+		} 
+
+
+		h1 {text-align: center;}
+		h2 {text-align: center;}
+
+				</style>		
+	</head>
+
+
+	<body>
+		<!-- -->
+	
+		
+				
+		<h1>Bicicletas de segunda mano</h1>
+	
+		
+    		
+		</br>
+		</br>
+		
+		
+		<table style="width:100%">
+			<tr>
+				<th>
+			
+    				
+				</th>
+
+
+    				<th>
+					
+			
+		
+				</th>	
+
+
+  			</tr>
+
+
+			<tr>
+				<td>
+			
+    					<a href="../documents/youin_bk1001.pdf"><img src="../images/youin_bk1001.png"  id="imagesize_3" alt="youin" /></a>
+				</td>
+
+
+    				<td>
+					<a href="alquiler_hase_es.html"><img src="../images/../images/x81.png"  id="imagesize_3" alt="x81" /></a>
+			
+		
+				</td>	
+
+
+  			</tr>
+		</table>
+
+
+		</br>
+		</br>		
+		<a href="../index.html">volver</a>
+
+
+	</body>
+</html>
